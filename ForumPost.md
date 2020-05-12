@@ -159,7 +159,7 @@ Some values are strings, some are port (uint16 in network order / big endian).
     apt-get install mysql-server mysql-client
 
 CNC requires database to work. When you install database, go into it and run
-following commands: http://pastebin.com/86d0iL9g (ref:
+following commands: https://web.archive.org/web/20161128111612/http://pastebin.com/86d0iL9g (ref:
 [`db.sql`](scripts/db.sql))
 
 This will create database for you. To add your user,
@@ -184,7 +184,7 @@ Cross compilers are easy, follow the instructions at this link to set up. You
 must restart your system or reload .bashrc file for these changes to take
 effect.
 
-http://pastebin.com/1rRCc3aD (ref:
+https://web.archive.org/web/20190321061050/https://pastebin.com/1rRCc3aD (ref:
 [`cross-compile.sh`](scripts/cross-compile.sh))
 
 # Building CNC+Bot
