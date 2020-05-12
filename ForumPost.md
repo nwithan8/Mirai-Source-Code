@@ -191,10 +191,10 @@ https://web.archive.org/web/20190321061050/https://pastebin.com/1rRCc3aD (ref:
 
 The CNC, bot, and related tools:
 
-1. http://santasbigcandycane.cx/mirai.src.zip - *THESE LINKS WILL NOT LAST
+1. https://web.archive.org/web/20161001105341/http://santasbigcandycane.cx/mirai.src.zip - *THESE LINKS WILL NOT LAST
   FOREVER, 2 WEEKS MAX - BACK IT UP!*<br>
   ![mirai.src.zip contents](scripts/images/BVc7qJs.png)
-2. http://santasbigcandycane.cx/loader.src.zip - *THESE LINKS WILL NOT LAST
+2. https://web.archive.org/web/20161002121334/http://santasbigcandycane.cx/loader.src.zip - *THESE LINKS WILL NOT LAST
    FOREVER, 2 WEEKS MAX - BACK IT UP!*
 
 ### How to build bot + CNC
